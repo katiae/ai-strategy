@@ -32,7 +32,7 @@ OpenAI (lacks marketplace-specific behavioural data)
 
 ---
 
-### Platform Exposure — 4/5
+### Platform Exposure — 2/5
 
 **Score rationale:**
 High risk of encroachment from AI platform emmbedding hiring and workforece management directly into their ecosystems. If tools like Google, Apple or OpenAI enable nativce hjob creation, candidate sourcing, and scheduling, they could easily abstract away the need for a dedicated platform. 
