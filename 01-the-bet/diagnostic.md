@@ -4,36 +4,41 @@
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
 **Product:**
-**Your Role:**
+Temporary workfoce management platform (employer-side)
 
+**Your Role:**
+Product designer (AI strategy & Growth)
 ---
 
 ## Scores
 
-### Contextual Moat — __/5
-*Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
+### Contextual Moat — 2.5/5
 
 **Score rationale:**
+Workflows are useful but not deeply embedded. Employers can post shifts and fill roles, but workflows are relatrively shallow and repleacable. If a competitor offered a faster creation,  better fill rates and more reliable workers, switching costs would be low, specially for companies who already use multiple staffing channels.
 
 **Named attacker (from partner challenge):**
+An ai-native staffing platform
 
 ---
 
-### Data Advantage — __/5
-*Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
+### Data Advantage — 4/5
 
 **Score rationale:**
+The platform already has strong behavioural proprietary data that compounds and that other competitors don't see, like filling rates by role, hiring season, location, employee profiles, reliability, cancellation patterns, etc. All this data grows over time and can power predictive matching, anticipating ewmployer needs, and workforce planning.
 
 **Named attacker (from partner challenge):**
+OpenAI (lacks marketplace-specific behavioural data)
 
 ---
 
-### Platform Exposure — __/5
-*Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
+### Platform Exposure — 4/5
 
 **Score rationale:**
+High risk of encroachment from AI platform emmbedding hiring and workforece management directly into their ecosystems. If tools like Google, Apple or OpenAI enable nativce hjob creation, candidate sourcing, and scheduling, they could easily abstract away the need for a dedicated platform. 
 
 **Named attacker (from partner challenge):**
+Google, Apple, OpenAI
 
 ---
 
