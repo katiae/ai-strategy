@@ -5,22 +5,42 @@
 ### Loop 1: Usage → Signal
 **Score: 2/5**
 *How does usage generate proprietary data?*
+Usage generates basic signals like job creation, applications, and fill rates, but limited depth on why decisions are made.
+There’s weak capture of intent (e.g. urgency, quality expectations, trade-offs), and little structured feedback on outcomes like satisfaction or worker performance context.
 
 ### Loop 2: Signal → Model
 **Score: 2/5**
 *How does that data improve the model?*
+Data is underutilised and not consistently fed into adaptive systems—most logic is still rule-based or static.
+Limited real-time learning from outcomes (e.g. cancellations, no-shows, rejections) to improve matching, pricing, or recommendations.
 
 ### Loop 3: Model → Experience
 **Score: 2/5**
 *How does the better model improve UX?*
+Improvements are incremental (e.g. suggestions, filters) rather than transformative.
+The experience still relies on manual workflows instead of proactively guiding or automating decisions.
 
 ### Loop 4: Experience → Usage
 **Score: 3/5**
 *How does better UX drive more usage?*
+A smoother UX helps with repeat usage, but doesn’t fundamentally change behaviour or increase reliance.
+Users still treat the platform as a tool, not a system they depend on for decision-making.
 
 **Total Flywheel Score: 9/20**
 **Weakest Loop:**
+Usage → Signal and Signal → Model
 **Fix for weakest loop:**
+*Right now:*
+
+* Users click → you log actions
+* You analyse later → maybe improve things
+
+*What we want:*
+
+* Users express intent naturally (chat, voice, behaviour)
+* System captures rich context (urgency, preferences, constraints)
+* Model learns in real-time from outcomes
+* System starts anticipating and acting
 
 ---
 ## Platform encroachment
@@ -58,15 +78,15 @@ They already own employer relationships and candidate identity. Adding temporary
 ---
 ## Competitive Positioning
 
-**Axis X:**
-**Axis Y:**
+**Axis X:** Level of automation (manual → AI-native / autonomous)
+**Axis Y:** Outcome performance (low fill success → high fill success)
 
 | Competitor | X Position | Y Position | Notes |
 |-----------|-----------|-----------|-------|
 | Your product | | | |
-| | | | |
-| | | | |
-| | | | |
+| Linkedin| | | |
+| Traditional agencies| | | |
+|AInative AIShift | | | |
 
 ---
 
