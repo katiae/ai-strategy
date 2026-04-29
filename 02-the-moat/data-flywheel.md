@@ -43,5 +43,6 @@
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
 **Attacker:**
+
 **Attack vector:**
 **Your defense:**
