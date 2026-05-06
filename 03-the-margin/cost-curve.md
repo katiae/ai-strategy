@@ -33,6 +33,9 @@
 | Heaviest segment doubles | | |
 | Model provider raises prices 50% | | |
 
+
+
+
 ## Board One-Pager
 <!-- Before/After: Old SaaS revenue vs. AI usage revenue for your product -->
 
@@ -54,6 +57,23 @@
 |----------|---------|--------|
 | 3x Cost  | $240.00 | 1.9% ($5.00) |
 | 2x Usage | $160.00 | 31.5% ($85.00) |
+
+--------------
+
+Pricing Strategy Block — Module 3
+
+Pricing Strategy
+- Strategy posture: Maximize
+- Pricing model: Hybrid (base + usage)
+- Unit of work metered: shifts successfully filled, ai-assisted placements completed, workflows automated, staffing resolutions completed, shifts coordinated autonomously, sucessful worker matches
+- Base fee ($/month): 499
+- Price per unit: $3.5
+- Estimated units/user/month: 300
+- Implied revenue/user/month: $1549.00
+
+Decision Note
+Why this pricing structure fits the buyer and the value delivered: —
+
 
 
 **Before (traditional SaaS):**
