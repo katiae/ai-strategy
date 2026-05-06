@@ -36,6 +36,26 @@
 ## Board One-Pager
 <!-- Before/After: Old SaaS revenue vs. AI usage revenue for your product -->
 
+# Margin Calculator — Module 3
+
+## Inputs
+- Avg requests/user/month: 2000
+- Blended cost/request: $0.04
+- Revenue/user/month: $270
+- Non-AI COGS/user/month: $25
+
+## Current Margin
+- AI COGS/user: $80.00
+- Total COGS/user: $105.00
+- Gross margin: 61.1% ($165.00/user)
+
+## Stress Test
+| Scenario | AI COGS | Margin |
+|----------|---------|--------|
+| 3x Cost  | $240.00 | 1.9% ($5.00) |
+| 2x Usage | $160.00 | 31.5% ($85.00) |
+
+
 **Before (traditional SaaS):**
 **After (AI-enabled):**
 **Net margin shift:**
