@@ -62,7 +62,7 @@
 
 Pricing Strategy Block — Module 3
 
-Pricing Strategy
+### Pricing Strateg
 - Strategy posture: Maximize
 - Pricing model: Hybrid (base + usage)
 - Unit of work metered: shifts successfully filled, ai-assisted placements completed, workflows automated, staffing resolutions completed, shifts coordinated autonomously, sucessful worker matches
