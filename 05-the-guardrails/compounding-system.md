@@ -25,7 +25,22 @@
 
 **Scope:** AI-powered job creation, worker recommendations, scheduling assistance, shift optimisation, and employer-facing automation features. Excludes: Internal experimentation tools and non-production analytics workflows.
 
-**Autonomy boundaries:** shift recommendations — auto. suggested pay rates — auto. worker ranking — auto. demand forecasting — auto. automated worker replacement — human approval required. shift cancellation handling — human approval required. pay adjustments affecting workers — human approval required. bulk workforce actions — human approval required. hiring previous employees — auto. hiring new employees — human approval required. hiring cost forecast — auto. compliance decisions — never auto. legal disputes — never auto. discrimination-sensitive hiring decisions — never auto. account suspensions — human approval required.
+**Autonomy boundaries:** 
+shift recommendations — auto. 
+suggested pay rates — auto. 
+worker ranking — auto. 
+demand forecasting — auto. 
+automated worker replacement — human approval required. 
+shift cancellation handling — human approval required. 
+pay adjustments affecting workers — human approval required. 
+bulk workforce actions — human approval required. 
+hiring previous employees — auto. 
+hiring new employees — human approval required. 
+hiring cost forecast — auto. 
+compliance decisions — never auto. 
+legal disputes — never auto. 
+discrimination-sensitive hiring decisions — never auto. 
+account suspensions — human approval required.
 
 **Escalation triggers:** AI confidence below threshold on recommendation 2. High-risk staffing shortage detected 3. Employer disputes recommendation outcome 4. Potential bias or compliance-sensitive decision detected 5. Worker reports unfair treatment or incorrect automation 6. Large pay variance from market norm
 
